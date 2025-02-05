@@ -1,6 +1,4 @@
-# BWAStore HTML Starter Template
-
-Starter Template ini dapat anda gunakan untuk memulai project pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
+# HTML Starter
 
 ## Lisensi
 
@@ -27,7 +25,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 <hr>
-
-Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
-
-Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
