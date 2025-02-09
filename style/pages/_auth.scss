@@ -1,14 +1,19 @@
-.page-success {
+.page-auth {
   .row-login {
-    min-height: 75vh;
+    min-height: 70vh;
   }
 
-  .section-success {
+  .section-store-auth {
     h2 {
       font-weight: 200;
       font-size: 28px;
-      color: #0c0d36;
       margin-top: 0;
+      color: #0c0d36;
+    }
+
+    .form-control {
+      border-radius: 8px;
+      background: #f3f3f3;
     }
 
     .btn-signup {
